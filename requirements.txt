@@ -1,0 +1,8 @@
+ultralytics==8.0.196
+onnx
+onnx2tf==1.17.5
+sng4onnx==1.0.1
+onnxsim==0.4.33
+onnx_graphsurgeon==0.3.26
+tflite_support
+onnxruntime
